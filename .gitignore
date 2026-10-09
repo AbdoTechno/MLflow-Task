@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MLflow tracking DB & artifacts
+mlflow_finguard.db
+mlflow_artifacts/
+mlruns/
+baseline_roc_curve.png
+.trash/
+
+# Archives
+*.zip
+
+# Personal Local Notes (Will not be committed)
+PROJECT_EXPLANATION.md
+STUDY_GUIDE.md
